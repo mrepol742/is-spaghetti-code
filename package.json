@@ -1,7 +1,7 @@
 {
   "name": "is-spaghetti-code",
   "description": "A simple npm package that detects characteristics of spaghetti code by analyzing JavaScript code snippets. It checks for deep nesting and long functions, giving you insights into your code's structure.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/mrepol742/is-spaghetti-code",
   "repository": {
     "type": "git",
