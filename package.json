@@ -8,10 +8,19 @@
     "url": "git@github.com:mrepol742/is-spaghetti-code"
   },
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["spaghetti", "code", "quality"],
+  "exports": {
+    "require": "./index.js",
+    "import": "./index.js"
+  },
+  "keywords": [
+    "spaghetti",
+    "code",
+    "quality"
+  ],
   "author": "Melvin Jones Repol",
   "license": "MIT"
 }

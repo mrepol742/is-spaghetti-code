@@ -15,6 +15,7 @@ npm install is-spaghetti-code
 To use the package, require it in your JavaScript file and pass a code string to the `isSpaghettiCode` function:
 
 ```javascript
+// import isSpaghettiCode from "is-spaghetti-code"
 const isSpaghettiCode = require('is-spaghetti-code');
 
 const codeSample = `
